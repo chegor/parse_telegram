@@ -17,13 +17,12 @@ list = {
 "https://t.me/nexta_live",
 "https://t.me/tribuna_by",
 "https://t.me/euroradio",
-"https://t.me/cyberpartisan",
 "https://t.me/Spoilermen",
 "https://t.me/BlackBookBelarus",
 "https://t.me/belarus_economy",
 "https://t.me/motolkohelp",
 "https://t.me/symbalby",
-"https://t.me/pulpervoi",
+"https://t.me/tsikhanouskaya",
 "https://t.me/minsk_block",
 "https://t.me/iSANS_Belarus",
 "https://t.me/HodasevichLive",
@@ -62,7 +61,15 @@ list = {
 "https://t.me/citydogby",
 "https://t.me/kanapa_army",
 "https://t.me/by_help",
-"https://t.me/stopbotluka"
+"https://t.me/stopbotluka",
+"https://t.me/koko_by",
+"https://t.me/mc_maxim",
+"https://t.me/vybory_smotri",
+"https://t.me/kolenkaluka",
+"https://t.me/latushka",
+"https://t.me/belhalat_by",
+"https://t.me/viktarbabarykaofficial",
+"https://t.me/zashkvarka_org"
 }
 
 
