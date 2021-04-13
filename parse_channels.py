@@ -69,7 +69,11 @@ list = {
 "https://t.me/latushka",
 "https://t.me/belhalat_by",
 "https://t.me/viktarbabarykaofficial",
-"https://t.me/zashkvarka_org"
+"https://t.me/zashkvarka_org",
+"https://t.me/krumkachy",
+"https://t.me/fc_dinamominsk",
+"https://t.me/isloch",
+"https://t.me/rukhbrest"
 }
 
 
@@ -81,7 +85,7 @@ def parse_url(urls):
             driver.get(url)
 
             textarea = driver.find_element_by_css_selector('div.tgme_page_extra')
-            number = re.search(r'(.*?) members', textarea.text).group(1)
+            number = re.search(r'(.*?) subscribers', textarea.text).group(1)
             number = number.replace(" ","")
 
             title_area = driver.find_element_by_css_selector('div.tgme_page_title span')
