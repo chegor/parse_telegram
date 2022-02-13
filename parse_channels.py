@@ -18,7 +18,6 @@ list = {
 "https://t.me/tribuna_by",
 "https://t.me/euroradio",
 "https://t.me/Spoilermen",
-"https://t.me/BlackBookBelarus",
 "https://t.me/belarus_economy",
 "https://t.me/motolkohelp",
 "https://t.me/symbalby",
